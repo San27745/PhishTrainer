@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhishTrainer — Phase 1
 
 ## Included
@@ -42,3 +43,7 @@ Visit:
 
 ## Security notes
 This is a local development starter, not production-ready. Change SECRET_KEY, keep `.env` private, create a dedicated least-privilege database account before deployment, add authentication/CSRF protection/rate limits/email verification/backups/tests, and avoid storing real passwords or unredacted private messages.
+=======
+# PhishTrainer
+FyMCA Project
+>>>>>>> 97f496d7e7a199c53136fc182b09a3d2b9bac25f
